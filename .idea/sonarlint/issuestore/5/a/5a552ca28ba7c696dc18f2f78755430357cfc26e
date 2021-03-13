@@ -1,7 +1,7 @@
 
 €
 java:S4165	"jRemove this useless assignment; "isAuthorized" already holds the assigned value along all execution paths.(¬Ö
-0
-java:S1220""Move this file to a named package.
 >
 java:S1172"(Remove this unused method parameter "b".(ïúä
+0
+java:S1220""Move this file to a named package.
