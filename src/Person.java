@@ -8,7 +8,7 @@ public abstract class Person {
     public Person(String firstName, String lastName, LocalDate dateOfBirth) {
         this.firstName = firstName;
         this.lastName = lastName;
-        dateOfBirth = dateOfBirth;
+        this.dateOfBirth = dateOfBirth;
 
     }
 
@@ -42,7 +42,7 @@ public abstract class Person {
         return "Person{" +
                 "firstName='" + firstName + '\'' +
                 ", lastName='" + lastName + '\'' +
-                ", dateOfBirth=" + dateOfBirth ;
+                ", dateOfBirth=" + dateOfBirth;
 
     }
 
